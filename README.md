@@ -14,11 +14,11 @@ Easy File Handler is an executable software.
 
 # Executing the software
 
-Run the file - File Handler.exe inside the folder you want to perform operations.
+Run the file - File Handler.exe (Available in release) inside the folder you want to perform operations.
 
 # Files included:
 
- - File Handler.exe -> Executable file to run the software
+ - File Handler.exe (Available in release) -> Executable file to run the software
  - File Handler.py -> Contains the source code
  - Readme.md -> contains information about app.
 
